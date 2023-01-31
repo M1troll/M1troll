@@ -1,4 +1,4 @@
-### Hi there :bowtie:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Tokha.;Python-Developer.)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff69b4)
