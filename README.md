@@ -35,17 +35,12 @@
 ## Social media (in progress)
 <!-- Social media (in progress) -->
 
-![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Skype-informational?style=flat&logo=Skype&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=ff69b4)
-
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)
+![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&color=C13584)
+![](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)
+![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B)
+![](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)
+![](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -56,6 +51,7 @@
 <a href="https://github.com/M1troll/M1troll">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1troll&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
 </a>
+
 
 <!--
 **M1troll/M1troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
