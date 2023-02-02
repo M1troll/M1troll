@@ -1,12 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Tokha.;Python-Developer.)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/OS-Linux%20Manjaro-informational?style=flat&logo=linux&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=ff69b4)
+
+![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Tools-Xpath-informational?style=flat&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4)
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4)
 
 ## &#x1f4c8; GitHub Stats
 
