@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Tokha.;Python-Developer.)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
-
 <!-- OS -->
 ![](https://img.shields.io/badge/OS-Linux%20Manjaro-informational?style=flat&logo=linux&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4)
@@ -19,6 +18,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=ff69b4x)
 ![](https://img.shields.io/badge/Tools-gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=ff69b4x)
+![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B)
 
 <!-- IDEs -->
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=ff69b4)
@@ -32,15 +32,13 @@
 ![](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff69b4x)
 ![](https://img.shields.io/badge/Tools-bulma-informational?style=flat&logo=bulma&logoColor=white&color=ff69b4x)
 
-## Social media (in progress)
-<!-- Social media (in progress) -->
-
-![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)
-![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&color=C13584)
-![](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)
-![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B)
-![](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)
-![](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)
+## Contacts
+<!-- Contacts -->
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)](https://t.me/Mitroll)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/t1roller)
+[![](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)](https://vk.com/trhun)
+[![](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discordapp.com/users/648933636820959255)
+[![](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)](https://join.skype.com/invite/JedhTjytbGNp)
 
 ## &#x1f4c8; GitHub Stats
 
