@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=ff69b4x)
 ![](https://img.shields.io/badge/Tools-gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=ff69b4x)
-![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B)
 
 <!-- IDEs -->
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=ff69b4)
@@ -39,17 +38,14 @@
 [![](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)](https://vk.com/trhun)
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discordapp.com/users/648933636820959255)
 [![](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)](https://join.skype.com/invite/JedhTjytbGNp)
+<!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
 
 ## &#x1f4c8; GitHub Stats
-
-<!-- <a href="https://github.com/M1troll/M1troll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1troll&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a> -->
+![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
 
 <a href="https://github.com/M1troll/M1troll">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1troll&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
 </a>
-
 
 <!--
 **M1troll/M1troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
