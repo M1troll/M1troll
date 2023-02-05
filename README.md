@@ -40,7 +40,7 @@
 ![bulma](https://img.shields.io/badge/Tools-bulma-informational?style=flat&logo=bulma&logoColor=white&color=ff69b4x)
 ![Stack%20Overflow](https://img.shields.io/badge/Tools-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white")
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 <!-- Contacts -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)](https://t.me/Mitroll)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/t1roller)
