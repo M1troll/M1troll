@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! Nice commits, bro
+  Hey! Nice commits, bro 
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Tokha.;Python-Developer.)](https://git.io/typing-svg)
@@ -47,6 +47,7 @@
 [![VK](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)](https://vk.com/trhun)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discordapp.com/users/648933636820959255)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)](https://join.skype.com/invite/JedhTjytbGNp)
+![](https://www.codewars.com/users/M1troll/badges/micro)
 <!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
 
 ## &#x1f4c8; GitHub Stats
