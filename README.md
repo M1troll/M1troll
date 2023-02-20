@@ -47,7 +47,7 @@
 [![VK](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)](https://vk.com/trhun)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discordapp.com/users/648933636820959255)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)](https://join.skype.com/invite/JedhTjytbGNp)
-![](https://www.codewars.com/users/M1troll/badges/micro)
+[![](https://www.codewars.com/users/M1troll/badges/micro)](https://www.codewars.com/users/M1troll)
 <!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
 
 ## &#x1f4c8; GitHub Stats
