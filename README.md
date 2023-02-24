@@ -15,7 +15,7 @@
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
 ![PyTest](https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4)
 ![Selenium](https://img.shields.io/badge/Tools-selenium-informational?style=flat&logo=selenium&logoColor=white&color=ff69b4)
-![django](https://img.shields.io/badge/Tools-django-informational?style=flat&logo=django&logoColor=white&color=ff69b4x)
+<!-- ![django](https://img.shields.io/badge/Tools-django-informational?style=flat&logo=django&logoColor=white&color=ff69b4x) -->
 
 <!-- Languages -->
 <!-- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4) -->
