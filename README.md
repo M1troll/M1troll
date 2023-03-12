@@ -60,9 +60,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
 [![](https://www.codewars.com/users/M1troll/badges/micro)](https://www.codewars.com/users/M1troll)
 
+
 <a href="https://github.com/M1troll/M1troll">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1troll&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M1troll&theme=radical)](https://git.io/streak-stats)
+
 
 <!--
 **M1troll/M1troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
