@@ -65,7 +65,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1troll&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M1troll&theme=radical)](https://git.io/streak-stats)
+<!-- It's doesn't work correct!( -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M1troll&theme=radical)](https://git.io/streak-stats) -->
 
 
 <!--
