@@ -58,9 +58,8 @@
 <!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
 
 ## &#x1f4c8; Stats
-![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
 [![](https://www.codewars.com/users/M1troll/badges/micro)](https://www.codewars.com/users/M1troll)
-
+![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
 
 <a href="https://github.com/M1troll/M1troll">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1troll&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
